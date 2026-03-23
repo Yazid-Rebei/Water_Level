@@ -1,0 +1,39 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio-build/
+.pio/libdeps/
+.pio/build/
+
+# Compiled files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.a
+*.so
+*.dylib
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.ccls-cache/
+compile_commands.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Arduino
+*.ino.preprocessed
+*.ino.cpp
+*.pde
